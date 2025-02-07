@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+redis
+aioredis
+websockets
+jinja2
+sqlalchemy
